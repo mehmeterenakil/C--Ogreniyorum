@@ -1,0 +1,3 @@
+﻿  OrtHesp.cpp
+C:\Users\mehme\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\OrtHesp.cpp(18,29): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  OrtalamaHesaplama.vcxproj -> C:\Users\mehme\source\repos\OrtalamaHesaplama\x64\Debug\OrtalamaHesaplama.exe
